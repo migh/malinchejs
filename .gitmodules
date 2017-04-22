@@ -1,3 +1,3 @@
 [submodule "src/js/app/modules/malinche/lib/BinarySearchTree"]
-	path = src/js/app/modules/malinche/lib/BinarySearchTree
+	path = lib/BinarySearchTree
 	url = https://github.com/migh/typescript-binary-search-tree.git
